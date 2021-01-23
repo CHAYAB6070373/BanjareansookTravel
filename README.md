@@ -1,2 +1,2 @@
-# VideoLearning2
+# BanjareansookTravel
 GitHub Pages
