@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Banjareansook",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -722,7 +722,8 @@
             },
             ".mbr-author-desc": {
               "display": "block",
-              "color": "#767676"
+              "color": "#767676",
+              "text-align": "center"
             },
             ".mbr-author-name": {
               "color": "#767676"
