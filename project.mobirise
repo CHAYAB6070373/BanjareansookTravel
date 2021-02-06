@@ -3013,7 +3013,7 @@
           "_params": {
             "gallery": [
               {
-                "tags": "Awesome",
+                "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -3023,15 +3023,15 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-9777-800x450.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-9777-800x450-679x450.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/img-9777-800x450-679x450.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9777-800x450-679x450-679x450.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -3043,13 +3043,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-5156-2000x1333-800x533.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-5156-2000x1333-800x533-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-5156-2000x1333-800x533-800x533.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5156-2000x1333-800x533-800x533-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           }
