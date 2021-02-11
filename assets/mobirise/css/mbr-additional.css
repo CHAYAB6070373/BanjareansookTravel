@@ -3705,6 +3705,49 @@ section.lazy-placeholder:after {
 .cid-sl1OZPklqU blockquote {
   color: #767676;
 }
+.cid-soHd0HtNxa {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-soHd0HtNxa .card-box {
+  padding: 0 2rem;
+}
+.cid-soHd0HtNxa .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-soHd0HtNxa .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-soHd0HtNxa h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-soHd0HtNxa p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-soHd0HtNxa .mbr-text {
+  color: #767676;
+}
+.cid-soHd0HtNxa .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #ffe0d7;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-soHd0HtNxa .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-soHd0HtNxa .card-title {
+  text-align: center;
+}
 .cid-skVdMdndHm {
   background: #ca5e3f;
   padding-top: 60px;
